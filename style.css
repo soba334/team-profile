@@ -25,9 +25,10 @@
   }
 
   table.travel {
-    border-collapse: separate;
     width: 100%;
-    max-width: 700px;
+    border-collapse: separate;
+    table-layout: auto;
+    /* max-width: 700px; */
   }
   
   table.travel th, table.travel td {
