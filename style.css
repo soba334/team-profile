@@ -82,12 +82,12 @@
     left: 0;
     width: 100vw;
     height: 100vh;
-    background-color: #ffe9a7;
+    background-color: #ad4bef;
     opacity: 0.4;
     z-index: -1;
   }
   .Circles {
-    background-image: radial-gradient(circle at center center, #ffc107, #ffe9a7), repeating-radial-gradient(circle at center center, #ffc107, #ffc107, 20px, transparent 40px, transparent 20px);
+    background-image: radial-gradient(circle at center center, #9a829d, #ffffff), repeating-radial-gradient(circle at center center, #c518ff, #922f95, 20px, transparent 40px, transparent 20px);
     background-blend-mode: multiply;
   }
 }
